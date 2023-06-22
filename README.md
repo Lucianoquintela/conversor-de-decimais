@@ -11,7 +11,7 @@ Laizza Minelly Rodrigues Costa
 Francisca Maria Gomes 
 
 ORIENTADOR:
-PROFESSOR: Everson Sousa Leite
+PROFESSOR: Everson Sousa
 
 APLICATIVO:ConversionDec
 EMPRESA: FuturyTec
