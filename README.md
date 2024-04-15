@@ -1,4 +1,4 @@
-# PROJETO-ConversionDec
+# ConversionDec
 
 Projeto Criado para a feira do empreendedor na Escola Estadual de Educação Profissional Deputado Roberto Mesquita.
 Esse aplicativo serve para fazer a conversão de números decimais para binário,octal e hexadecimal.
