@@ -19,34 +19,10 @@ Este aplicativo converte números decimais para **binário**, **octal** e **hexa
 
 ---
 
-## 👨‍👩‍👧 Equipe de Desenvolvimento
+## ▶️ Exemplo de Uso
 
-**Criadores:**  
-- Luciano Quintela dos Santos  
-- Iasmin Estevão Martins  
-- Maria Eduarda da Silva Souza  
-- Laizza Minelly Rodrigues Costa  
-- Francisca Maria Gomes  
-
-**Orientador:**  
-- Professor Everson Sousa
-
----
-
-## 📈 Status do Projeto
-
-> ✅ Projeto concluído!
-
----
-
-## 🔗 Acesse o Projeto
-
-[**Clique aqui para abrir no Replit**](https://replit.com/@LucianoQuintela/Conversiondec#)
-
----
-
-## 👨‍💻 Autor (representante)
-
-**Luciano Quintela**  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucianoquintela)
-
+```bash
+Digite um número decimal: 25
+Binário: 11001
+Octal: 31
+Hexadecimal: 19
