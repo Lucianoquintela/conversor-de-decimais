@@ -14,7 +14,7 @@ Este aplicativo converte números decimais para **binário**, **octal** e **hexa
 ## 📜 Sobre o Projeto
 
 - Conversão de números decimais para binário, octal e hexadecimal.
-- Interface simples, desenvolvida para ser didática e funcional.
+- Desenvolvido em Python, com uma interface de linha de comando simples e funcional.
 - Criado como parte do projeto da empresa fictícia **FuturyTec**, voltado à educação tecnológica.
 
 ---
