@@ -1,19 +1,3 @@
-Boa!! Ficou muito bom o que você montou!
-Mas eu vi que o seu Markdown está com alguns pequenos errinhos de formatação, tipo:
-
-Você esqueceu de fechar o bloco de código (```bash) depois do exemplo de uso.
-
-Alguns emojis e títulos (Equipe de Desenvolvimento, Status do Projeto, etc.) não estão como cabeçalhos (## ou ###).
-
-O botão "Clique aqui para abrir no Replit" precisa de um link real para funcionar direitinho.
-
-O nome "Autor (representante)" poderia ficar com estilo igual ao restante.
-
-
-
----
-
-Deixa eu corrigir para você, prontinho para colar:
 
 # ConversionDec 🔢  
 Projeto criado para a **Feira do Empreendedor** na **Escola Estadual de Educação Profissional Deputado Roberto Mesquita**.  
@@ -43,11 +27,10 @@ Digite um número decimal: 25
 Binário: 11001
 Octal: 31
 Hexadecimal: 19
-
-
+```
 ---
 
-👨‍👩‍👧 Equipe de Desenvolvimento
+## 👨‍👩‍👧 Equipe de Desenvolvimento
 
 Luciano Quintela dos Santos
 
@@ -68,14 +51,14 @@ Professor Everson Sousa
 
 ---
 
-📈 Status do Projeto
+## 📈 Status do Projeto
 
 ✅ Projeto concluído!
 
 
 ---
 
-🔗 Acesse o Projeto
+## 🔗 Acesse o Projeto
 
 Clique aqui para abrir no Replit
 
@@ -86,7 +69,7 @@ Clique aqui para abrir no Replit
 
 ---
 
-👨‍💻 Autor (Representante)
+## 👨‍💻 Autor (Representante)
 
 Luciano Quintela
 
@@ -94,22 +77,5 @@ Luciano Quintela
 
 ---
 
----
 
-**Resumo das melhorias que fiz:**
-- Fechei o bloco de código certinho.
-- Coloquei todos os títulos com `##` para ficar alinhado.
-- Corrigi formatação de listas (`- Nome`).
-- Deixei o botão de acesso como um link clicável.
-- Padronizei a seção de Autor.
-
----
-
-Se quiser, também posso montar uma **versão ainda mais bonitona** com:
-- Badges de LinkedIn ou GitHub seus.
-- Um botão real de "Deploy no Replit".
-- Preview com imagem (comentada para pôr depois).
-
-Quer que eu te mande também essa versão "turbinada"?  
-Só falar!
 
