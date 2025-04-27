@@ -47,46 +47,37 @@ Hexadecimal: 19
 
 ---
 
-👨‍👩‍👧 Equipe de Desenvolvimento
+## 👨‍👩‍👧 Equipe de Desenvolvimento
 
 Luciano Quintela dos Santos
-
 Iasmin Estevão Martins
-
 Maria Eduarda da Silva Souza
-
 Laizza Minelly Rodrigues Costa
-
 Francisca Maria Gomes
 
-
 Orientador:
-
 Professor Everson Sousa
 
 
 
 ---
 
-📈 Status do Projeto
+## 📈 Status do Projeto
 
 ✅ Projeto concluído!
 
 
 ---
 
-🔗 Acesse o Projeto
+## 🔗 Acesse o Projeto
 
 Clique aqui para abrir no Replit
-
-> (Lembre de substituir o link pelo seu link real do projeto!)
-
 
 
 
 ---
 
-👨‍💻 Autor (Representante)
+## 👨‍💻 Autor (Representante)
 
 Luciano Quintela
 
