@@ -55,7 +55,7 @@ Hexadecimal: 19
 
 Clique aqui para abrir no Replit
 
-> (https://replit.com/@LucianoQuintela/Conversiondec#)
+> (replit.com/@LucianoQuintela/Conversiondec)
 
 
 
