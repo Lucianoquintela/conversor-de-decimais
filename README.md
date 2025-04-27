@@ -32,23 +32,16 @@ Hexadecimal: 19
 
 ## 👨‍👩‍👧 Equipe de Desenvolvimento
 
-Luciano Quintela dos Santos
+- **Luciano Quintela dos Santos** 👨‍💻
+- **Iasmin Estevão Martins** 👩‍💻
+- **Maria Eduarda da Silva Souza** 👩‍💻
+- **Laizza Minelly Rodrigues Costa** 👩‍💻
+- **Francisca Maria Gomes** 👩‍💻
 
-Iasmin Estevão Martins
+## Orientador
 
-Maria Eduarda da Silva Souza
-
-Laizza Minelly Rodrigues Costa
-
-Francisca Maria Gomes
-
-
-Orientador:
-
-Professor Everson Sousa
-
-
-
+- **Professor Everson Sousa** 🎓
+- 
 ---
 
 ## 📈 Status do Projeto
