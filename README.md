@@ -1,6 +1,8 @@
+
 # ConversionDec 🔢  
-Projeto criado para a **Feira do Empreendedor** na **Escola Estadual de Educação Profissional Deputado Roberto Mesquita**.  
-Este aplicativo converte números decimais para **binário**, **octal** e **hexadecimal** de forma prática e rápida.
+
+Projeto desenvolvido para a **Feira do Empreendedor** da **Escola Estadual de Educação Profissional Deputado Roberto Mesquita**.  
+O aplicativo converte números decimais para **binário**, **octal** e **hexadecimal** de forma prática e rápida.
 
 ---
 
@@ -14,14 +16,33 @@ Este aplicativo converte números decimais para **binário**, **octal** e **hexa
 ## 📜 Sobre o Projeto
 
 - Conversão de números decimais para binário, octal e hexadecimal.
-- Desenvolvido em Python, com uma interface de linha de comando simples e funcional.
-- Criado como parte do projeto da empresa fictícia **FuturyTec**, voltado à educação tecnológica.
+- Desenvolvido em **Python**, com uma interface de linha de comando simples e funcional.
+- Criado como parte do projeto da empresa fictícia **FuturyTec**, voltado para a educação tecnológica.
 
 ---
 
-## 👥 Equipe de Desenvolvimento
+## ▶️ Exemplo de Uso
 
-```python
+```bash
+Digite um número decimal: 25
+Binário: 11001
+Octal: 31
+Hexadecimal: 19
+
+
+---
+
+
+
+
+
+
+
+
+---
+
+👥 Equipe de Desenvolvimento
+
 # Criadores:
 # - Luciano Quintela dos Santos
 # - Iasmin Estevão Martins
@@ -32,10 +53,5 @@ Este aplicativo converte números decimais para **binário**, **octal** e **hexa
 # Orientador:
 # - Professor Everson Sousa
 
-## ▶️ Exemplo de Uso
 
-```bash
-Digite um número decimal: 25
-Binário: 11001
-Octal: 31
-Hexadecimal: 19
+---
