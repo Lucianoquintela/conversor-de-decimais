@@ -19,6 +19,19 @@ Este aplicativo converte números decimais para **binário**, **octal** e **hexa
 
 ---
 
+## 👥 Equipe de Desenvolvimento
+
+```python
+# Criadores:
+# - Luciano Quintela dos Santos
+# - Iasmin Estevão Martins
+# - Maria Eduarda da Silva Souza
+# - Laizza Minelly Rodrigues Costa
+# - Francisca Maria Gomes
+
+# Orientador:
+# - Professor Everson Sousa
+
 ## ▶️ Exemplo de Uso
 
 ```bash
