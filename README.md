@@ -60,14 +60,10 @@ Clique aqui para abrir no Replit
 
 
 ---
+## 👨‍💻 Autor
 
-## 👨‍💻 Autor (Representante)
-
-Luciano Quintela
-
-
-
----
+**Luciano Quintela**  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianoquintela)
 
 
 
